@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @bushrakalaji
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Front end development at Noroff school of technology and digital media.
+- :syria: From Aleppo , Syria.
+- :svalbard_jan_mayen: Live in Hagan, Norway.
+- :computer: Front-end dev student at Noroff school of technology.
+- :heartbeat: I love to practice everything related to art and design.
+- :woman_technologist: I have the ability to learn new stuff and use it as development material.
 - 📫 Email : bkalaji33@gmail.com
 
 <!---
