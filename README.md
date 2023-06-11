@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @bushrakalaji
-- :syria: From Aleppo , Syria.
-- :svalbard_jan_mayen: Live in Norway.
-- :computer: Front-end dev student at Noroff school of technology.
-- :heartbeat: I love to practice everything related to art and design.
-- :woman_technologist: I have the ability to learn new stuff and use it as development material.
-- 📫 Email : bkalaji33@gmail.com
+# 👋 Hi, I'm Bushra Kalaji
+
+- 🌍 From Aleppo, Syria :syria:
+- 🏔️ Living in Norway :svalbard_jan_mayen:
+- 💻 Front-end Dev Student at Noroff School of Technology
+- :heartbeat: Passionate about art, design, and development
+- 👩‍💻 Always eager to learn and apply new skills in my projects
+- 📫 Reach me at bkalaji33@gmail.com
 
 <!---
 bushrakalaji/bushrakalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
