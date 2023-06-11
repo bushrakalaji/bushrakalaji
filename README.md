@@ -2,7 +2,7 @@
 
 - 🌍 From Aleppo, Syria :syria:
 - 🏔️ Living in Norway :svalbard_jan_mayen:
-- 💻 Front-end Dev | Graduate of Noroff School of Technology (2-year program)
+- 💻 Front-end Dev | Graduate of [Noroff School of Technology](https://www.noroff.no/) (2-year program)
 - :heartbeat: Passionate about art, design, and development
 - 👩‍💻 Always eager to learn and apply new skills in my projects
 - 📫 Reach me at bkalaji33@gmail.com
